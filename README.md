@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-- 🎓 3rd Year B.Tech CSE at **SR University**, CGPA: **9.6**
+- 🎓 4th Year B.Tech CSE at **SR University**, CGPA: **9.6**
 - 🔭 Intern at **CODSOFT** & **Google AICTE Program**
 - 🧠 Actively working on **AIML-powered apps** and **full-stack projects**
 - 🏆 Winner @ SRU Idea Conclave
@@ -21,9 +21,10 @@
 
 ## 💼 Featured Projects
 
-🔹 [Fact Finder AI](https://github.com/Harshavardhanjakku/Fact-Finder-Ai): Fake news detection using NLP and ML with 92% accuracy  
-🔹 [Calendar using DS & DB](https://github.com/Harshavardhanjakku/Calendar): CLI calendar app using C & SQLite3  
-🔹 [Student Result System](https://github.com/Harshavardhanjakku/Student-Result-Management-System): Automated 500+ records with Python & MySQL  
+🔹 [EmoLearn](https://github.com/arunpentkar/emolearn.git): Multi-Modal Emotion Detection System Transforming Learning Through Emotion-Driven Innovation 
+🔹 [Diabetes-Prediction](https://github.com/arunpentkar/Diabetes-Prediction.git): DIABETES PREDICTION WEBSITE 
+🔹 [AI--Virtual-Mouse-Using-Hand-Gesture
+](https://github.com/arunpentkar/AI--Virtual-Mouse-Using-Hand-Gesture.git): AI-based virtual mouse using hand gestures. 
 
 ---
 ## 🔧 Languages
@@ -35,9 +36,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
 ---
@@ -45,11 +43,10 @@
 ## 🎨 Frontend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
 </p>
 
 ---
@@ -73,7 +70,6 @@
 
 - 🥇 Winner of SRU Idea Conclave for an AI chatbot project
 - 🧠 Finalist in **SIH Hackathon Grand Finale**, automated 150+ customer queries
-- 👨‍💻 Ranked Top 10 in GPA & IEEE TEMS CodeClash at VIT Vellore
 - 🏁 Completed AWS, Generative AI, and Full Stack certifications
 
 ---
