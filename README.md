@@ -17,7 +17,14 @@ I thrive in collaborative environments and enjoy solving complex problems that p
 | Databases | <div align="center"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> </div> |
 | Cloud | <div align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/> </div> |
 | Developer Tools | <div align="center"> <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </div> |
-| Foundational Skills | <div align="center"> <img src="https://img.shields.io/badge/Data%20Structures-FF6C37?style=for-the-badge"/> <img src="https://img.shields.io/badge/Artificial%20Intelligence-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Networks-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/Operating%20Systems-9C27B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cybersecurity-FFC107?style=for-the-badge"/> </div> |
+| Foundational Skills | 
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-FF6C37?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Computer%20Networks-007ACC?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Operating%20Systems-9C27B0?style=for-the-badge"/> 
+</div> |
+
 
 ## 💼 Featured Projects
 
