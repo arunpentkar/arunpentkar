@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pentkar Arun kumar</h1>
+<h1 align="center">Hi 👋, I'm Pentkar Arun Kumar</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Software Development Engineer</h3>
+
+<p align="center">
+  <img src="https://github.com/NagarajuNarishetti/NagarajuNarishetti/raw/main/mygif.gif" alt="Profile GIF" width="400" height="300"/>
+</p>
+
 
 ---
 
