@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pentkar Arun kumar</h1>
-<h3 align="center">Full-Stack Developer | ML Enthusiast | Frontend Intern @ CODSOFT</h3>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=B.Tech+CS+Student+@+SR+University;Full+Stack+Developer;AI+%26+ML+Explorer;AWS+Cloud+Intern;Hackathon+Winner+%F0%9F%8E%89" alt="Typing SVG" />
-</p>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 4th Year B.Tech CSE at **SR University**, CGPA: **9.6**
-- 🔭 Intern at **CODSOFT** & **Google AICTE Program**
-- 🧠 Actively working on **AIML-powered apps** and **full-stack projects**
-- 🏆 Winner @ SRU Idea Conclave
-- 💬 Ask me about **Python, Databases, NLP,ML, Full Stack Web Dev**
-- 📫 Reach me at **pentkararunkumar@gmail.com**
+I am a passionate and driven Software Developer currently in my fourth year of a Bachelor’s degree in Computer Science at SR University. With a strong foundation in programming and a keen interest in emerging technologies, I specialize in building innovative web and mobile applications using modern libraries and frameworks. My experience spans full-stack development, AI/ML, and backend systems, with hands-on work in Python, Java, React, Next.js, RESTful APIs, SQL, and MongoDB.
 
----
+I thrive in collaborative environments and enjoy solving complex problems that push me to grow as a developer. I am continuously learning and evolving with the tech landscape, aiming to contribute meaningfully to impactful software solutions.
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+
+| Category | Skills |
+|---|---|
+| Languages | <div align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </div> |
+| Frameworks | <div align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> </div> |
+| Libraries | <div align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> </div> |
+| Databases | <div align="center"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> </div> |
+| Cloud | <div align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/> </div> |
+| Developer Tools | <div align="center"> <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </div> |
+| Foundational Skills | <div align="center"> <img src="https://img.shields.io/badge/Data%20Structures-FF6C37?style=for-the-badge"/> <img src="https://img.shields.io/badge/Artificial%20Intelligence-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Networks-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/Operating%20Systems-9C27B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cybersecurity-FFC107?style=for-the-badge"/> </div> |
 
 ## 💼 Featured Projects
 
